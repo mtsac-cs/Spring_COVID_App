@@ -1,0 +1,27 @@
+Hey Everyone!
+-Please do your best to follow the format in your respective logging files to write down the changes you made after commiting your code into Github.
+-This will ensure that everyone is able to keep up to date on the changes made in an easy to read format and those who have conflicting opinions on a change can see the reasoning behind them.
+-Please make your own logging txt file in this folder to prevent merge errors on more that one change.
+
+<---GENERAL FORMAT--->
+day month year
+
+	-What you changed/added to the app(Generally short to update those who want to get caught up on the new additions)
+	-Why you made the changes/additions to the app(Generally longer in order to explain the benefits of implementing the changes. That way others who initially question the change can see the use for it)
+
+---END DAY---
+
+day month year
+
+	-What you changed/added to the app
+	-Why you made the changes/additions to the app
+
+---END DAY---
+
+<---SPECIFIC EXAMPLE--->
+2 April 2020
+
+	-Updated the UI of the home page by increasing the button size from 35dp x 35dp to 48dp x 48pd and darkening the hue of the button colors.
+	-The change in button size was was done in order to give users a better experience as a smaller button could lead to misclicks or missing. This change was also done to better align with the standard minimum button size of 48dp x 48pd. The change in the hue was done because the colors seemed too bright and did not suit the overall layout of the app that well.
+
+---END DAY---
